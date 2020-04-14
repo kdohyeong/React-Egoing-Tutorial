@@ -1,3 +1,6 @@
+## 이 프로젝트는 React 연습을 위한 간단한 기능들을 구현한 웹 어플리케이션입니다.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

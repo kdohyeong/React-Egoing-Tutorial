@@ -1,0 +1,11 @@
+yarn build 상용화용 소스를 만듬
+
+npx serve -s build 
+
+npm install -g serve 
+
+yarn serve -s build 
+
+yarn install -g serve
+
+웹 서버를 설치할 수 있다.
